@@ -1,0 +1,4 @@
+PRODUCT NAME, PRICE, DESCRIPTION
+Laptop, 849.99, 15-inch screen, 8GB RAM, 512GB SSD
+Smartphone, 599.99, 6.1-inch screen, 128GB storage, dual camera
+Headphones, 199.99, Noise-cancelling, Over-ear, Wireless
